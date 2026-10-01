@@ -11,7 +11,7 @@ Run `DashFolioSyncSetup.exe`. The installer:
 - installs the Microsoft .NET 8 Desktop Runtime if it is missing (signed by Microsoft);
 - installs DashFolioSync, or updates an existing installation — your settings are kept.
 
-When setup asks for it, enter your plugin token from DashFolio (**Settings → Plugins**).
+When setup asks for it, enter your plugin token. To create one, sign in to [dashfolio.ai](https://www.dashfolio.ai) and open **Plugins → OrderClerk → Settings → Plugin Tokens** from the menu.
 
 ## Updates
 
